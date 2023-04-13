@@ -8,7 +8,6 @@ const BLOCK_MOVIE = "BLOCK_MOVIE";
 export default {
   API_KEY_V3,
   BASE_URL,
-  POPULARITY_API_URL,
   CONFIG_URL,
   LIKE_MOVIE,
   BLOCK_MOVIE,
